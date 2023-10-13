@@ -1,0 +1,17 @@
+.displycard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.head{
+    text-align: center;
+}
+.input-box{
+    height: 35px;
+    width: 500px;
+    margin-left: 495px;
+    margin-top: 50px;
+    font-size: 20px;
+    padding-left: 15px;
+    border-radius: 25px;
+}
